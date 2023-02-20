@@ -1,3 +1,4 @@
 # First-repository
 var num = 1;
-println(num);
+fill(200, 200, 200);
+text(num, 200, 200);
